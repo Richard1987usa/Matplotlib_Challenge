@@ -1,0 +1,5 @@
+Firstly, Ramicane and Capomulin proved to be effective in diminishing the size of tumors, achieving an average reduction in tumor volume of approximately 11%-12%. In contrast, the alternative treatments resulted in an average tumor volume increase of about 16%-22% over a 45-day treatment period.
+
+Secondly, a strong positive correlation was observed between mouse weight and average tumor volume in the Capomulin treatment group, with a correlation coefficient (r) of 0.84 and a p-value of less than 0.001.
+
+Lastly, the highest survival rate was observed in mice treated with Capomulin, at approximately 84%, compared to a significantly lower survival rate of 28% in mice treated with Propriva, assessed from the commencement to the end of the 45-day treatment cycle.
